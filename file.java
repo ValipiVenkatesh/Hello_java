@@ -1,4 +1,4 @@
-punlic class Java
+public class Java
 {
   public static void main(String[] agrs)
   {
