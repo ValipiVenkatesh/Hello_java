@@ -1,4 +1,4 @@
-public class Java
+public class file
 {
   public static void main(String[] agrs)
   {
